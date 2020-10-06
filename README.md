@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/jigs1212"><img align="center" alt="visitors" src="https://gpvc.arturio.dev/jigs1212" /></a>
-  <a href="https://stackoverflow.com/users/2336835/jigs1212"><img align="center" alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/2336835?label=Stackoverflow%20Reputation"></a>&nbsp;
+  <a href="https://github.com/jigs1212"><img align="center" target="_blank" alt="visitors" src="https://gpvc.arturio.dev/jigs1212" /></a>
+  <a href="https://stackoverflow.com/users/2336835/jigs1212" target="_blank" ><img align="center" alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/2336835?label=Stackoverflow%20Reputation"></a>&nbsp;
 
 </p>
 
 <p align="center">
 <br>
-  <a href="https://stackoverflow.com/users/2336835/jigs1212"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stackoverflow"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/jigar-lodaya-aba3268b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:jigar.lodaya12@gmail.com?subject=Hola%Jigar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/2336835/jigs1212" target="_blank" ><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stackoverflow"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jigar-lodaya-aba3268b/" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:jigar.lodaya12@gmail.com?subject=Hola%Jigar" target="_blank" ><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
