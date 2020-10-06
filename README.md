@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/jigs1212"><img align="center" target="_blank" alt="visitors" src="https://gpvc.arturio.dev/jigs1212" /></a>
+  <a href="https://github.com/jigs1212" target="_blank"><img align="center" alt="visitors" src="https://gpvc.arturio.dev/jigs1212" /></a>
   <a href="https://stackoverflow.com/users/2336835/jigs1212" target="_blank" ><img align="center" alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/2336835?label=Stackoverflow%20Reputation"></a>&nbsp;
 
 </p>
