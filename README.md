@@ -4,14 +4,6 @@
   <a href="https://github.com/jigs1212" ><img align="center" alt="visitors" src="https://gpvc.arturio.dev/jigs1212" /></a>
 </p>
 
-<p align="center">
-<br>
-  <a href="https://stackoverflow.com/users/2336835/jigs1212"  ><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stackoverflow"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/jigar-lodaya-aba3268b/"  ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:jigar.lodaya12@gmail.com?subject=Hola%Jigar"  ><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with [![!Instamojo](https://avatars1.githubusercontent.com/u/2631562?v=4&s=16)](https://github.com/instamojo)[Instamojo](https://github.com/instamojo)
@@ -21,6 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Jigar Lodaya](mailto:jigar.lodaya12@gmail.com)
 - 😄 Pronouns: He | Him
 
+
+### Statistics: 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jigs1212&theme=onedark" />
+</p>
+
+### Contact: 
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/2336835/jigs1212"  ><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stackoverflow"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jigar-lodaya-aba3268b/"  ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:jigar.lodaya12@gmail.com?subject=Hola%Jigar"  ><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</p>
 
 ### Languages and Tools: 
 
